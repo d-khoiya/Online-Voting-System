@@ -1,0 +1,81 @@
+@charset "ISO-8859-1";
+
+.my-nav{
+    background-color: black;
+    color: white;
+}
+.navbar{
+    background-color: #004056 !important;
+
+}
+.navbar .navbar-brand{
+    color: #FFFFCB !important;
+}
+.nav-link{
+    color: #FFFFCB !important;
+}
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-light .navbar-toggler{
+    border: 1px solid #FFFFCB ;
+    outline: none !important;
+    
+}
+.my-bar{
+    color: #FFFFCB !important; 
+}
+.my-container{
+    background-color: #004056;
+    border-radius: 10px;
+    color: #FFFFCB;
+}
+.my-btn{
+    background-color: #FFFFCB !important;
+    border: 0px;
+    outline: none;
+    color: #004056;
+}
+.my-btn:hover{
+    color: #004056; 
+    border: 0;
+    outline: none;
+}
+.formerror{
+	color: red;
+}
+
+#hideeyeone{
+	display: none;
+}
+#hideeyeonecp{
+	display: none;
+}
+ul li{
+	list-style-type: none;
+}
+.invalid{
+	color: red !important;
+}
+.valid{
+	color: green !important;
+}
+#pswdcont{
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+}
+.hide{
+	display: none;
+}
+
+
+
+
+/* 
+#004056 - color for header and footer rectangles
+#FFFFCB - font color (everything almost)
+#1A4A67 - inner container color. border 20px for inner container
+#FFFFFFF - outer container color
+Font style - Montserrat
+ */
